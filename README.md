@@ -1,2 +1,2 @@
 # my-code-work
-I'll show my work while learning frontend developin
+I'll show my work while learning frontend developing.
